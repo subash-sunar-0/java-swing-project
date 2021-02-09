@@ -1,5 +1,5 @@
 # java-swing-project
-    This is an individual project for 3 senester to create app using java swing and JDBC CURD.
+    This is an individual project for 3 semester to create app using java swing and JDBC CURD.
 
 #Tools and Technologies used
     
